@@ -7,7 +7,7 @@
 - 开发者 -->
 
 # @yzewei 👋
-- 🏫 **Major**:Data science and big data technology
+- 🏫 **Major**:Cloud Computing 
 - 📜 **Blog**:https://yzewei.github.io/
 ---
 🔬I'm currently learning **Hadoop-related projects & Nosql & Machine Learning**
