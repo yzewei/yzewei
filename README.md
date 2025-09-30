@@ -10,7 +10,7 @@
 - 🏫 **Major**:Cloud Computing 
 - 📜 **Blog**:https://yzewei.github.io/
 ---
-🔬I'm currently learning **Hadoop-related projects & Nosql & Machine Learning**
+🔬I'm currently learning **CNCF & LINUX & Build Tools & OSS**
 - working in a company as an intern,doing some explorations of NLP
 - busy...
 
