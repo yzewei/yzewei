@@ -21,14 +21,15 @@
 
 ![](https://img.shields.io/badge/Java-blue?logo=java)
 ![](https://img.shields.io/badge/Python-orange?logo=python)
+![](https://img.shields.io/badge/Golang-green?logo=golang)
+![](https://img.shields.io/badge/Shell-black?logo=shell)
 
-![](https://img.shields.io/badge/Hadoop-red)
-![](https://img.shields.io/badge/Spark-red)
-![](https://img.shields.io/badge/Zookeeper-red)
-![](https://img.shields.io/badge/Kafka-red)
-![](https://img.shields.io/badge/Flume-red)
-![](https://img.shields.io/badge/Hive-red)
-![](https://img.shields.io/badge/Hbase-red)
+![](https://img.shields.io/badge/Docker-red)
+![](https://img.shields.io/badge/Containerd-red)
+![](https://img.shields.io/badge/Buildx-red)
+![](https://img.shields.io/badge/Kubernetes-red)
+![](https://img.shields.io/badge/CI-CD-red)
+![](https://img.shields.io/badge/AI-Infra-red)
 
 
 
